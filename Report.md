@@ -19,7 +19,7 @@
  - Успешных кейсов 45.45% (20 кейсов)
  - Неуспешных кейсов 54.54% (24 кейсов)
 
-<http://example.com/> Report 
+[Report](https://github.com/Katyafreydman/gbr/blob/master/%D0%BE%D1%82%D1%87%D0%B5%D1%82-1.png)
 
 
 ## Общие рекомендации:
